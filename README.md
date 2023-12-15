@@ -23,3 +23,9 @@ console.log(imageUrls.join('\n'));
 
 ![image](https://github.com/yunshinhee/all-images/assets/145514638/f5e1cb82-3895-4a13-8fe8-a454e026116a)
 
+# url 주소 이미지 대량 다운받기 (최대 주소 50개)
+``
+https://imgdownloader.com/ko/
+```
+![image](https://github.com/yunshinhee/all-images/assets/145514638/eb9a0df7-ea52-4adb-9905-31c9df472407)
+
